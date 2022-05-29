@@ -27,5 +27,4 @@ public class AdminController {
 		
 		return (ResponseEntity<?>) ResponseEntity.internalServerError();
 	}
-	
 }
